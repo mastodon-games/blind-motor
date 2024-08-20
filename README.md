@@ -3,8 +3,16 @@
 ## Concept
 An automated motor to open and close window blinds, triggered by day/night cycle (light levels and sunrise/sunset times).
 
-## Schematics
+## Project structure
 
-## Code
+### build
+files to build the project
 
-## Design
+### docs
+schematics, documentation, demonstrations, etc.
+
+### design
+files for designs of mechanisms to be 3D printed
+
+### src
+main.c, header files, and libraries
